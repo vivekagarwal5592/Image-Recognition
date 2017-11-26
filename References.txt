@@ -4,3 +4,11 @@ https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/
 
 http://cmm.ensmp.fr/~beucher/wtshed.html
 
+https://stackoverflow.com/questions/37177811/crop-rectangle-returned-by-minarearect-opencv-python
+
+https://www.bytefish.de/blog/extracting_contours_with_opencv/
+
+https://docs.opencv.org/2.4/doc/tutorials/imgproc/shapedescriptors/bounding_rects_circles/bounding_rects_circles.html
+
+https://www.pyimagesearch.com/2015/02/09/removing-contours-image-using-python-opencv/
+
